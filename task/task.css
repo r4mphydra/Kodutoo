@@ -1,0 +1,63 @@
+.main{
+    text-align: center;
+    color: fuchsia;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  }
+body {
+    background-color:lavender;
+}
+.ingredients{
+    color:cadetblue;
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+.table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+.instruction{
+    color: blue;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+#step1{
+    color: hotpink;
+}
+#step2{
+    color: red;
+}
+#step3{
+    color: indianred;
+}
+#step4{
+    color: indigo;
+}
+.bacon{
+    width: 200px;
+}
+#step5{
+    color: orange;
+}
+#step6{
+    color: purple;
+}
+#step7{
+    color: salmon;
+}
+#step8{
+    color: sienna;
+}
+#step9{
+    color: green;
+}
+.dj{
+    margin-left: 105rem;
+}
